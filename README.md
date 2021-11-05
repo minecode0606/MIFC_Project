@@ -8,4 +8,4 @@ MIFC Project(Minseo's Interesting Function Collection)의 초기 설립의도는
 
 ### Content
 * [구면의 방정식](https://github.com/minecode0606/MIFC_Project/blob/master/spherical_surface_equation/research%20motivation.md) - 우리가 실생활에서 많이 접하는 구에도 방정식이 숨어있다!
-* [메르센 소수와 소수 판벌 알고리즘]() - 소수로 떠나는 흥미진진한 여행!
+* [메르센 소수와 소수 판별 알고리즘]() - 소수로 떠나는 흥미진진한 여행!
