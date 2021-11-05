@@ -8,7 +8,8 @@
 "이걸 이용해서 두 점사이의 거리를 구할수가 있지. 그럼 역으로 한점을 기준으로 잡고 같은거리에 있는 점들을 구할수 있을까?"
 이런 의문점이 들어 연구를 시작하게 되었습니다.
 
-# [탐구 활동 과정](https://github.com/minecode0606/Pyscientific/blob/master/MIFC_Project/spherical_surface_equation/spherical_surface_equation.ipynb)
+# 탐구활동 과정
+[링크를 클릭하세요!](https://github.com/minecode0606/MIFC_Project/blob/master/spherical_surface_equation/spherical_surface_equation.ipynb)
 
 # 느낀점
 위 방법을 통하여 기준점을 잡고 근접한 점에 거리가 같은 구를 그리는 식으로 3차원 공간에서도 KNN알고리즘을 적용해 보았습니다. 
