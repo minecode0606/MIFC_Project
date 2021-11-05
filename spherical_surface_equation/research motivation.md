@@ -9,7 +9,7 @@
 이런 의문점이 들어 연구를 시작하게 되었습니다.
 
 # 탐구활동 과정
-[링크를 클릭하세요!](https://github.com/minecode0606/MIFC_Project/blob/master/spherical_surface_equation/spherical_surface_equation.ipynb)
+## [링크를 클릭하세요!](https://github.com/minecode0606/MIFC_Project/blob/master/spherical_surface_equation/spherical_surface_equation.ipynb)
 
 # 느낀점
 위 방법을 통하여 기준점을 잡고 근접한 점에 거리가 같은 구를 그리는 식으로 3차원 공간에서도 KNN알고리즘을 적용해 보았습니다. 
