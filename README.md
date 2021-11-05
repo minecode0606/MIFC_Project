@@ -7,5 +7,9 @@ MIFC Project(Minseo's Interesting Function Collection)의 초기 설립의도는
 <hr>
 
 ### Content
-* [구면의 방정식](https://github.com/minecode0606/MIFC_Project/blob/master/spherical_surface_equation/research%20motivation.md) - 우리가 실생활에서 많이 접하는 구에도 방정식이 숨어있다!
-* [메르센 소수와 소수 판별 알고리즘](https://github.com/minecode0606/MIFC_Project/blob/master/Mersenne_prime/Marsenne_prime_Intro.md) - 소수로 떠나는 흥미진진한 여행!
+
+#### 해석
+* [구면의 방정식](https://github.com/minecode0606/MIFC_Project/blob/master/spherical_surface_equation/spherical_surface_equation.ipynb) - 우리가 실생활에서 많이 접하는 구에도 방정식이 숨어있다!
+
+#### 정수
+* [메르센 소수와 소수 판별 알고리즘](https://github.com/minecode0606/MIFC_Project/blob/master/Mersenne_prime/Mersenne_prime.ipynb) - 소수로 떠나는 흥미진진한 여행!
